@@ -1,11 +1,11 @@
 #World of Warships Flag Mod
 
 This is a mod to change the anchor flag to an hololive pirate Marine flag.
----
+***
 #How to install 
 
 Copy "content" & "gui" into /bin/{the largest numbered folder}/res_mods/
----
+***
 #How to uninstall
 
 Delete the following files
